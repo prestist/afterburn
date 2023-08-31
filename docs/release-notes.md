@@ -16,6 +16,7 @@ Minor changes:
 
 Packaging changes:
 
+- Require Rust ≥ 1.71.0
 
 
 ## Afterburn 5.4.3 (2023-06-05)
